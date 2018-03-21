@@ -1,6 +1,4 @@
-## Welcome to GitHub Pages
-
-Adding a title is always fun!
+## Adding a title is always fun!
 
 You can use the [editor on GitHub](https://github.com/lvoliveira1/Public-Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
